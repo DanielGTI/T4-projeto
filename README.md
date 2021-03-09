@@ -18,7 +18,7 @@ Os grupos devem ser formados com 6 a 12 alunos, por grupo. Cada grupo deve criar
 
 ## ENTREGA 
 
-As correções serão realizadas acessando diretamente o projeto do Github e o Sistema WEB online, hospedado no AWS. O endereço do sistema WEB deve constar no versionamento.
+As correções serão realizadas acessando diretamente o projeto do Github e o Sistema WEB online, hospedado na Cloud. O endereço do sistema WEB deve constar no versionamento.
 Portanto, não enviar o projeto, documentação ou códigos por e-mail.
 
 **Para formalizar a entrega do projeto**, apenas um integrante do grupo deve enviar por email informando os seguintes dados no corpo da mensagem:
